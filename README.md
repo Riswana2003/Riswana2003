@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Riswana2003
 - 👀 I’m interested in data analysis 
-- 🌱 I’m currently learning Msc Statistics 
+- 🌱 I’m graduated in Msc Statistics 
 - 💞️ I’m looking to collaborate on data analyst job
 - 📫 How to reach me 
 - 😄 Pronouns: ...
